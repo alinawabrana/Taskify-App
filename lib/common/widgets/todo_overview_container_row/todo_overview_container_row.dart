@@ -66,7 +66,7 @@ class TodoOverviewContainerRow extends StatelessWidget {
                   ),
                   SizedBox(width: 20),
                   SizedBox(
-                    width: 250,
+                    width: 245,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
